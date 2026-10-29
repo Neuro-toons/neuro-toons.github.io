@@ -1,0 +1,13 @@
+{
+  "name": "neurotoons-website",
+  "private": true,
+  "description": "Neuro-toons — Complex science. Simple cartoons.",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js --serve"
+  },
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}
