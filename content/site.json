@@ -1,0 +1,68 @@
+{
+  "name": "Neuro-toons",
+  "page_title": "Neuro-toons | Complex Science. Simple Cartoons.",
+  "description": "Neuro-toons — Complex science. Simple cartoons.",
+  "logo": { "emoji": "🧠", "text": "Neuro-<b>toons</b>" },
+
+  "nav": [
+    { "label": "Home", "link": "#home" },
+    { "label": "Topics", "link": "#topics" },
+    { "label": "Shorts", "link": "#shorts" },
+    { "label": "Comics", "link": "#comics" },
+    { "label": "Learn", "link": "#learn" },
+    { "label": "About", "link": "#about" }
+  ],
+
+  "hero": {
+    "eyebrow": "SCIENCE, BUT MAKE IT FUN.",
+    "title": "Complex science.",
+    "title_highlight": "Simple cartoons.",
+    "text": "Neuroscience, biology and medicine explained through memorable cartoons, comics and bite-sized videos.",
+    "primary_button": { "label": "Explore Neuro-toons →", "link": "#comics" },
+    "secondary_button": { "label": "Watch Shorts ▶", "link": "#shorts" },
+    "stats": [
+      { "value": "10s", "label": "Quick concepts" },
+      { "value": "🧠", "label": "Brain-friendly" },
+      { "value": "🎨", "label": "Visual learning" }
+    ]
+  },
+
+  "todays_toon": {
+    "label": "TODAY'S NEURO-TOON",
+    "emoji": "🧠",
+    "image": "",
+    "speech": "“Don't memorize me.<br>Understand me!”",
+    "scribble": "↗ action potential",
+    "link": ""
+  },
+
+  "sections": {
+    "topics": { "eyebrow": "EXPLORE", "title": "Pick your rabbit hole.", "text": "Start with a topic and learn one idea at a time." },
+    "shorts": { "eyebrow": "BITE-SIZED", "title": "Learn it in 10 seconds.", "link_label": "View all shorts →", "home_count": 5, "page_text": "Every short, newest first." },
+    "comics": { "eyebrow": "THE CLASSICS", "title": "Comics that stick.", "link_label": "Browse comics →", "home_count": 3, "page_text": "Every comic, newest first." }
+  },
+
+  "learn": {
+    "eyebrow": "FROM CARTOON → CONCEPT",
+    "title": "Want the explanation behind the joke?",
+    "text": "Each Neuro-toon can grow into a mini lesson with a simple explanation, exam points, mnemonics and related concepts.",
+    "button": { "label": "Start learning →", "link": "comics.html" }
+  },
+
+  "about": {
+    "emoji": "🧠",
+    "eyebrow": "ABOUT NEURO-TOONS",
+    "title": "Making difficult science easier to remember.",
+    "text": "Neuro-toons uses humour, visual storytelling and recurring characters to turn intimidating scientific concepts into ideas students can recall when it matters."
+  },
+
+  "footer": {
+    "tagline": "Complex science. Simple cartoons.",
+    "links": [
+      { "label": "YouTube", "link": "https://www.youtube.com/@neuro-toons" },
+      { "label": "Instagram", "link": "https://www.instagram.com/neuro_toons" },
+      { "label": "Contact", "link": "mailto:neurotoons8050@gmail.com" }
+    ],
+    "copyright": "© 2026 Neuro-toons. All rights reserved."
+  }
+}
